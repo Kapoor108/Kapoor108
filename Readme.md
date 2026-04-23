@@ -1,15 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Harsh%20Kapoor&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Kapoor108">
-    <!-- <img src="https://komarev.com/ghpvc/?username=Kapoor108&label=Profile%20views&color=00FFFF&style=flat-square" alt="Kapoor108's profile views" /> -->
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Banner" width="60%" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
-
 ## About Me
-• 4+ years building scalable production systems                          
+• 4+ years building scalable production systems                            
 • AI, Automation, and Full Stack Development  
 • Co-Founder, CK Tech Hub 
 • System Architecture and Performance Optimization       
