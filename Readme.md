@@ -7,7 +7,6 @@
 ## About Me
 • 4+ years building scalable production systems                            
 • AI, Automation, and Full Stack Development  
-• Co-Founder, CK Tech Hub 
 • System Architecture and Performance Optimization       
 • Designing high-performance, cost-efficient AI solutions
 
